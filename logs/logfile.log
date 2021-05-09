@@ -1,0 +1,36 @@
+2021-05-09 00:40:18,674 : INFO : test_e2e : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="067bd42da948053fc44d9ef92f86b90d", element="d312c83a-b888-4a1b-bfed-175e43986d1a")>
+2021-05-09 00:40:18,674 : INFO : test_e2e : Phone Model is : iphone X
+2021-05-09 00:40:24,533 : INFO : test_e2e : Test Case Passed.
+2021-05-09 00:41:57,278 : INFO : test_e2e : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="fb27baf4d4352db863aca2c474020438", element="7d065efb-758e-49e9-a844-12643f5892d2")>
+2021-05-09 00:41:57,279 : INFO : test_e2e : Phone Model is : iphone X
+2021-05-09 00:42:03,114 : INFO : test_e2e : Test Case Passed.
+2021-05-09 00:45:40,731 : INFO : test_e2e : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="9cb9193bb9cd41e63035149288bdb846", element="075922b6-0aa4-4be4-a8ce-5f6aed9e370f")>
+2021-05-09 00:45:40,731 : INFO : test_e2e : Phone Model is : iphone X
+2021-05-09 00:45:46,585 : INFO : test_e2e : Test Case Passed.
+2021-05-09 00:46:55,918 : INFO : test_e2e : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="7822459e814dd88add7dea7d458eb8c1", element="f3f5ce2a-e918-49ce-8100-1730cc73f27c")>
+2021-05-09 00:46:55,918 : INFO : test_e2e : Phone Model is : iphone X
+2021-05-09 00:47:01,704 : INFO : test_e2e : Test Case Passed.
+2021-05-09 00:47:48,851 : INFO : test_buy_iphone_x_01 : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="6ffd304b67eaf787b2c8d97a8f35306d", element="2cb61151-e908-4cf1-a7f3-64f407444095")>
+2021-05-09 00:47:48,851 : INFO : test_buy_iphone_x_01 : Phone Model is : iphone X
+2021-05-09 00:47:54,681 : INFO : test_buy_iphone_x_01 : Test Case Passed.
+2021-05-09 02:44:34,649 : INFO : test_buy_iphone_x_01 : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="b08263bf14fc944c76cd68fa4f96d219", element="74fdb53e-7c48-48b3-84e9-9f4ee7079136")>
+2021-05-09 02:44:34,649 : INFO : test_buy_iphone_x_01 : Phone Model is : iphone X
+2021-05-09 02:44:40,455 : INFO : test_buy_iphone_x_01 : Test Case Passed.
+2021-05-09 02:47:01,754 : INFO : test_buy_iphone_x_01 : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="67ba47e1004b4369b62b97223f55b17d", element="41b8922d-ab9b-4f04-afb7-dadd18cb1796")>
+2021-05-09 02:47:01,754 : INFO : test_buy_iphone_x_01 : Phone Model is : iphone X
+2021-05-09 02:47:07,541 : INFO : test_buy_iphone_x_01 : Test Case Passed.
+2021-05-09 03:12:09,959 : INFO : test_buy_iphone_x_01 : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="e01a3153500847dae74347b8d4a6c684", element="fe6ed2fa-8d27-488b-ab0f-8c6145c83b12")>
+2021-05-09 03:12:09,961 : INFO : test_buy_iphone_x_01 : Phone Model is : iphone X
+2021-05-09 03:12:15,976 : INFO : test_buy_iphone_x_01 : Test Case Passed.
+2021-05-09 03:17:00,119 : INFO : test_buy_iphone_x_01 : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="7dbb6ad1fe8d3008fd608d87d29f9d84", element="ab9e3f33-fc48-4ff9-a7bc-7349b7ef16fb")>
+2021-05-09 03:17:00,121 : INFO : test_buy_iphone_x_01 : Phone Model is : iphone X
+2021-05-09 03:17:05,920 : INFO : test_buy_iphone_x_01 : Test Case Passed.
+2021-05-09 03:22:00,350 : INFO : test_buy_iphone_x_01 : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="cac6436e7b6559d9fe2e918c8953f1bc", element="86d9c2e6-8f5d-45bb-98b2-609d18e5ec90")>
+2021-05-09 03:22:00,351 : INFO : test_buy_iphone_x_01 : Phone Model is : iphone X
+2021-05-09 03:22:06,176 : INFO : test_buy_iphone_x_01 : Test Case Passed.
+2021-05-09 19:01:27,277 : INFO : test_buy_iphone_x_01 : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="46af4829ec898ba1077e7791b82534f2", element="2bae3e7e-3972-4b30-a213-9d6d61cf3141")>
+2021-05-09 19:01:27,279 : INFO : test_buy_iphone_x_01 : Phone Model is : iphone X
+2021-05-09 19:01:33,139 : INFO : test_buy_iphone_x_01 : Test Case Passed.
+2021-05-10 00:36:25,288 : INFO : test_buy_iphone_x_01 : Phone Element is : <selenium.webdriver.remote.webelement.WebElement (session="993990828ebbde6dbe872edce0b50a8f", element="49b4fc32-bf21-4725-9c20-7655f3eabe8a")>
+2021-05-10 00:36:25,290 : INFO : test_buy_iphone_x_01 : Phone Model is : iphone X
+2021-05-10 00:36:31,157 : INFO : test_buy_iphone_x_01 : Test Case Passed.
